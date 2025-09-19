@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**yundongjun/yundongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack  
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="left">
+
+## Skills  
+
+- **Operating Systems**: Ubuntu, FreeRTOS, Linux Kernel
+- **Embedded Systems**: STM32, ATmega128, Raspberry Pi  
+- **BSP & Drivers**: Bootloader, Device Driver, U-Boot  
+- **Tools**: STM32CubeIDE, QtCreator  
+- **Libraries & Frameworks**: ROS1  
+- **Communication Protocols**: SPI, UART, I2C, CAN
+
+</div>
+
+<div align="left">
+
+## Project  
+- **스마트 안전모** : [Smart Helmet](https://github.com/yundongjun/stm32-auther-module)
+
+</div>
+
+<div align="left">
+
+## Study
+- **spi Device Driver** : [SPI_Device_Driver](https://github.com/yundongjun/spi)
