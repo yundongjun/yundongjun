@@ -15,7 +15,10 @@ Development Tools
 Makefile, STM32CubeIDE, Visual Studio Code
 
 Libraries & Frameworks
-Qt, ROS1, OpenCV
+Qt, ROS1, ROS2, OpenCV
+
+Back End
+java, JDBC, Querydsl, redis, kafka
 
 </div>
 
